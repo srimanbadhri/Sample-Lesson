@@ -22,20 +22,21 @@ keypoints:
 > {: .source}
 {: .callout}
 
-> ## Challenge
+> ## Challenge: Can you do it?
 >
 > What is the answer to this question?
 >
-"2 + 4"
->
-> ## Solution
->
-> ```{r echo=FALSE}
-> 2 + 4
 > ```
+> 2 + 2
+> ```
+>
+> > ## Solution
+> >
+> > ```
+> > 4
+> > ```
 > {: .solution}
 {: .challenge}
-
 
 > ## Checklist
 > * Option 1
@@ -49,18 +50,6 @@ keypoints:
 > "How do I format a R Markdown file in a way that will allow a lesson plan to be taught successfully"
 > {: .source}
 {: .discussion}
-
-> ## Key Points
-> "Learn to hide the solution in a solution type format"
-
-> {: .source}
-{: .keypoints}
-
-> ## Objectives
-> Have a background understanding of how to create a lesson plan using Jekyll
-
-> {: .source}
-{: .objectives}
 
 > ## Prerequisites
  > "None"
